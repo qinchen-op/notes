@@ -1,0 +1,7 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Primary",
+  "enabledCssSnippets": [
+    "line-height"
+  ]
+}
