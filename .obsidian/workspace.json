@@ -170,17 +170,27 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "5d4f3d35406e2819",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -197,8 +207,11 @@
   },
   "active": "cde5c0570c253c9a",
   "lastOpenFiles": [
-    "MySQL/mysql基础/MySQL 事务详解.md",
+    "2025-05-29.md",
     "MySQL/MySQL基础.md",
+    "Excalidraw/Drawing 2025-05-28 13.44.21.excalidraw.md",
+    "新建 文本文档.txt",
+    "MySQL/mysql基础/MySQL 事务详解.md",
     "MySQL/mysql基础/MySQL 约束介绍.md",
     "MySQL/mysql基础/MySQL DQL语句基础.md",
     "MySQL/mysql基础/MySQL Workbench 图形化界面工具.md",
@@ -224,15 +237,12 @@
     "JavaSE/IO流.md",
     "MySQL.md",
     "JavaSE/Stream流.md",
-    "JavaSE/File.md",
-    "JavaSE/异常.md",
     "Notion",
     "Excalidraw",
     "JavaWeb",
     "JavaSE",
     "SSM",
     "LaTeX/asserts",
-    "LaTeX",
     "LaTeX/asserts/Pasted image 20250501095030.png"
   ]
 }

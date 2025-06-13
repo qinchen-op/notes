@@ -1,0 +1,10 @@
+### Obsidian ###
+# config dir
+.obsidian/
+
+# System files
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
